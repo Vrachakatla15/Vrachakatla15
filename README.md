@@ -44,7 +44,7 @@ Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API I
 
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-# [Snake Game With Python](assets/PythonSnakeGame.gif)
+# [TicTacToe game with java ](assets/PythonSnakeGame.gif)
 
 <img align="center" src="assets/PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
 
