@@ -44,11 +44,12 @@ Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API I
 
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-# [TicTacToe game with java ](assets/PythonSnakeGame.gif)
+# TicTacToe game with Java
 
-<img align="center" src="assets/PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
+<img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
-Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
+
+Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
 
 # [Pong Game- AI--using Python and Neat](assets/PythonPongGame-AI.gif)
 
