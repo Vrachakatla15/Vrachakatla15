@@ -15,7 +15,7 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 ### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
-### <img align="center" src="assets/remium Vector | Technical support, customer service staff work.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
+### <img align="center" src="assets/Premium Vector | Technical support, customer service staff work.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
