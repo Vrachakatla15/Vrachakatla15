@@ -48,14 +48,17 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
-
 Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
 
-# [Pong Game- AI--using Python and Neat](assets/PythonPongGame-AI.gif)
+# [DiceGame--using Python and Neat](assets/)
 
 <img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
-Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
+🎲 Dice Game with Python! 🐍
+
+Explore my Dice Game built with Python, featuring lifelike dice rolls, an interactive interface, and a fun way to learn probability and math. Check it out here and share your feedback!
+
+#Python #GameDev #TechInnovation #LearningThroughPlay #GitHubProjects
 
 
 ### <img align="center" src="assets/certificate.png" alt="santhoshguntupalli" height="50" width="60" /> Certifications
@@ -68,7 +71,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 ## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
 
-### Mphasis, New York                                                                                                                  August 2022- September 2023
+### Medsynergies, Texas                                                                                                                 September 2022- September 2023
 Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
@@ -80,7 +83,7 @@ Implemented robust data quality checks, security measures, CI/CD workflows, and 
 Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
 Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
-### LTI Mindtree, Hyderabad, India                                                     September 2019- August 2022
+### Infosys, Hyderabad, India                                                               September 2019- August 2022
 Position: Data Engineer
 
 Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
