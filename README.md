@@ -41,7 +41,7 @@ Explore my Dice Game built with Python, featuring lifelike dice rolls, an intera
 
 
 
-## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
+## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
 ### RVO Health, South Carolina                                                                                                                September 2022- September 2023
 Position: Data Engineer
