@@ -5,13 +5,13 @@
 Master's in Management Information Systems at the University of Illinois Springfield 
 
 ### <img align="center" src="assets/skills.png" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
-## Programming Languages <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
-Python, Java, JavaScript, C, C#, C++, Scala,R, sprak,Hadoop
+## Programming Languages :
+Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 
-### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Machine Learning :
 TensorFlow, PyTorch, sci-kit-learn, PySpark
 
-### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+### DevOps, Monitoring, and Other Tools/Services :
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
