@@ -37,7 +37,7 @@ My experience extends to deploying and managing software applications on public 
 ### <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
- # [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/TicTacToe.png" alt="vishnupriyarachakatla" height="50" width="60" />  
+# [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/TicTacToe.png" alt="vishnupriyarachakatla" height="50" width="60" />  
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
