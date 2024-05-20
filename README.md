@@ -6,7 +6,7 @@ Master's in Management Information Systems at the University of Illinois Springf
 
 ### <img align="center" src="assets/skills.png" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
 ## Programming Languages <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
-Python, Java, JavaScript, C, C#, C++, Scala, R
+Python, Java, JavaScript, C, C#, C++, Scala,R, sprak,Hadoop
 
 ### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
 TensorFlow, PyTorch, sci-kit-learn, PySpark
@@ -44,8 +44,6 @@ My experience extends to deploying and managing software applications on public 
 Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
 
 # [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython) <img align="center" src="assets/Dicegame.png" alt="vishnupriyarachakatla" height="50" width="60" />
-
-<img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 🎲 Dice Game with Python! 🐍
 Explore my Dice Game built with Python, featuring lifelike dice rolls, an interactive interface, and a fun way to learn probability and math. Check it out here and share your feedback!
