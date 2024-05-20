@@ -16,7 +16,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
-## <img align="center" src="assets/RVO.Health.png" alt="vishnupriyarachakatla" height="50" width="60" /> RVO Health, South Carolina                                                                                                                September 2022- September 2023
+### <img align="center" src="assets/RVO.Health.png" alt="vishnupriyarachakatla" height="50" width="60" /> RVO Health, South Carolina                                                                                                                                                                                     September 2022- September 2023
 Position: Data Engineer
 In my dynamic year of experience, I've mastered the art of designing and maintaining intricate ETL pipelines using Spark (RDDs / Data Frames / Dataset API) with Scala/Python, ensuring precise data processing and analysis to meet diverse business needs. I possess a keen understanding of the big data landscape, adeptly managing large-scale data sets and transforming complex business requirements into scalable technical solutions.
 
@@ -26,7 +26,7 @@ Managing code repositories on GitHub and orchestrating CI/CD processes for autom
 
 In a fast-paced environment, my strong analytical prowess, interpersonal finesse, and problem-solving acumen have allowed me to excel, in managing multiple tasks with precision and creativity.
 
-## <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Hyderabad , India                                                                                                                 September 2019- August 2022
+### <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Hyderabad , India                                                                                                                 September 2019- August 2022
 Position: Data Engineer
 
 During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.
