@@ -17,15 +17,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 ### <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
-# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
-
-Produced diverse data visualizations across my professional tenure and academic endeavors.
-
-Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
-
-Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
-
-# [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)
+ # [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/TicTacToe.png" alt="vishnupriyarachakatla" height="50" width="60" />  
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
@@ -37,7 +29,13 @@ Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and r
 
 🎲 Dice Game with Python! 🐍
 Explore my Dice Game built with Python, featuring lifelike dice rolls, an interactive interface, and a fun way to learn probability and math. Check it out here and share your feedback!
+# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
 
+Produced diverse data visualizations across my professional tenure and academic endeavors.
+
+Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
+
+Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
