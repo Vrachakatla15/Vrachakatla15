@@ -14,6 +14,26 @@ TensorFlow, PyTorch, sci-kit-learn, PySpark
 ### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
+## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
+
+## <img align="center" src="assets/RVO.Health.png" alt="vishnupriyarachakatla" height="50" width="60" /> RVO Health, South Carolina                                                                                                                September 2022- September 2023
+Position: Data Engineer
+In my dynamic year of experience, I've mastered the art of designing and maintaining intricate ETL pipelines using Spark (RDDs / Data Frames / Dataset API) with Scala/Python, ensuring precise data processing and analysis to meet diverse business needs. I possess a keen understanding of the big data landscape, adeptly managing large-scale data sets and transforming complex business requirements into scalable technical solutions.
+
+My expertise extends to implementing innovative data solutions on AWS, harnessing the power of services like Kinesis, S3, RedShift, DMS, and Athena for seamless data storage, processing, and analytics. I'm passionate about delving into data intricacies, conducting thorough research, and troubleshooting to ensure data quality and integrity, and collaborating closely with stakeholders to deliver exceptional results.
+
+Managing code repositories on GitHub and orchestrating CI/CD processes for automated testing, deployment, and version control has been a cornerstone of my work. I've leveraged Compute technologies like EMR and Databricks to drive data processing and analytics, while efficiently orchestrating jobs using Airflow and Databricks Workflows.
+
+In a fast-paced environment, my strong analytical prowess, interpersonal finesse, and problem-solving acumen have allowed me to excel, in managing multiple tasks with precision and creativity.
+
+## <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Chennai, India                                                                                                                 September 2019- August 2022
+Position: Data Engineer
+
+During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.
+
+Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.
+
+My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
 ### <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
@@ -39,25 +59,3 @@ Produced diverse data visualizations across my professional tenure and academic 
 Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
 
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
-
-
-## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
-
-## <img align="center" src="assets/RVO.Health.png" alt="vishnupriyarachakatla" height="50" width="60" /> RVO Health, South Carolina                                                                                                                September 2022- September 2023
-Position: Data Engineer
-In my dynamic year of experience, I've mastered the art of designing and maintaining intricate ETL pipelines using Spark (RDDs / Data Frames / Dataset API) with Scala/Python, ensuring precise data processing and analysis to meet diverse business needs. I possess a keen understanding of the big data landscape, adeptly managing large-scale data sets and transforming complex business requirements into scalable technical solutions.
-
-My expertise extends to implementing innovative data solutions on AWS, harnessing the power of services like Kinesis, S3, RedShift, DMS, and Athena for seamless data storage, processing, and analytics. I'm passionate about delving into data intricacies, conducting thorough research, and troubleshooting to ensure data quality and integrity, and collaborating closely with stakeholders to deliver exceptional results.
-
-Managing code repositories on GitHub and orchestrating CI/CD processes for automated testing, deployment, and version control has been a cornerstone of my work. I've leveraged Compute technologies like EMR and Databricks to drive data processing and analytics, while efficiently orchestrating jobs using Airflow and Databricks Workflows.
-
-In a fast-paced environment, my strong analytical prowess, interpersonal finesse, and problem-solving acumen have allowed me to excel, in managing multiple tasks with precision and creativity.
-
-## <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Chennai, India                                                                                                                 September 2019- August 2022
-Position: Data Engineer
-
-During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.
-
-Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.
-
-My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
