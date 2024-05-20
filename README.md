@@ -29,6 +29,9 @@ Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and r
 
 🎲 Dice Game with Python! 🐍
 Explore my Dice Game built with Python, featuring lifelike dice rolls, an interactive interface, and a fun way to learn probability and math. Check it out here and share your feedback!
+# [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython) <img align="center" src="assets/Quizgame.png" alt="vishnupriyarachakatla" height="50" width="60" />
+
+Embark on a journey through my Dice Game crafted with Python. Experience lifelike dice rolls, an engaging interface, and a playful approach to mastering probability and math. Dive in now and share your thoughts!
 # [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
