@@ -17,18 +17,8 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ### <img align="center" src="assets/Premium Vector | Technical support, customer service staff work.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
-# [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
-<img align="center" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
-
-Created a Movie Recommendation System that suggests films based on a chosen movie selection.
-
-Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
-Management Systems, API Integration, Model Evaluation, Data Visualisation
-
-Tools: Scikit-learn, TensorFlow, NLTK, Pandas, NumPy, TF-IDF Vectorizer, Jupyter Notebooks, PyCharm, Flask, GitHub
-
-# [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
 
@@ -36,13 +26,7 @@ Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling
 
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
-# [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
 
-Real-time stock market analysis providing live trend indicators for informed investment decisions
-
-Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API Integration, Model Evaluation
-
-Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
 # TicTacToe game with Java
 
@@ -58,39 +42,25 @@ Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and r
 
 Explore my Dice Game built with Python, featuring lifelike dice rolls, an interactive interface, and a fun way to learn probability and math. Check it out here and share your feedback!
 
-#Python #GameDev #TechInnovation #LearningThroughPlay #GitHubProjects
 
-
-### <img align="center" src="assets/certificate.png" alt="santhoshguntupalli" height="50" width="60" /> Certifications
-1. META Database Structures and Management with MySQL
-2. META Version Control
-3. META Advanced MySQL
-4. Prompt Engineering For Chatgpt - Vanderblit University
-5. IBM Exploratory Data Analysis for Machine Learning
-6. Machine Learning Specialisation - University of Washington
 
 ## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
 
-### Medsynergies, Texas                                                                                                                 September 2022- September 2023
+### RVO Health, South Carolina                                                                                                                September 2022- September 2023
+Position: Data Engineer
+In my dynamic year of experience, I've mastered the art of designing and maintaining intricate ETL pipelines using Spark (RDDs / Data Frames / Dataset API) with Scala/Python, ensuring precise data processing and analysis to meet diverse business needs. I possess a keen understanding of the big data landscape, adeptly managing large-scale data sets and transforming complex business requirements into scalable technical solutions.
+
+My expertise extends to implementing innovative data solutions on AWS, harnessing the power of services like Kinesis, S3, RedShift, DMS, and Athena for seamless data storage, processing, and analytics. I'm passionate about delving into data intricacies, conducting thorough research, and troubleshooting to ensure data quality and integrity, and collaborating closely with stakeholders to deliver exceptional results.
+
+Managing code repositories on GitHub and orchestrating CI/CD processes for automated testing, deployment, and version control has been a cornerstone of my work. I've leveraged Compute technologies like EMR and Databricks to drive data processing and analytics, while efficiently orchestrating jobs using Airflow and Databricks Workflows.
+
+In a fast-paced environment, my strong analytical prowess, interpersonal finesse, and problem-solving acumen have allowed me to excel, in managing multiple tasks with precision and creativity.
+
+### Tech Mahindra, Chennai, India                                                                                                                 September 2019- August 2022
 Position: Data Engineer
 
-Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
-Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
+During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.
 
-Employed Apache Hadoop, Apache Hive, and cloud-based services (AWS, GCP, Azure) for improved accessibility, reduced query latency by 40%, and managed over 1,000 data workflows securely.
-Implemented robust data quality checks, security measures, CI/CD workflows, and orchestration strategies, resulting in a 30% increase in scalability and real-time system visibility.
+Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.
 
-Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
-Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
-
-### Infosys, Hyderabad, India                                                               September 2019- August 2022
-Position: Data Engineer
-
-Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
-Loaded 50 petabytes into Amazon Redshift and Google BigQuery, elevating analytics and reporting speed by 40%.
-
-Collaborated with 15 teams to optimize data models, resulting in a 25% boost in retrieval speed and a 20% reduction in storage expenses.
-Attained a 30% increase in query performance via SQL fine-tuning, indexing, and partitioning strategies.
-
-Automated 50 data workflows, reducing manual effort by 30% and enhancing pipeline monitoring efficiency.
-Oversaw 10 data warehousing solutions, increasing analytics speed by 50%, while handling 20 data streams for real-time processing, reducing processing time by 40%. Additionally, leveraged Python, R, and machine learning to develop 30 predictive models, achieving a 15% improvement in prediction accuracy.
+My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
