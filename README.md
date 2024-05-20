@@ -26,15 +26,13 @@ Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling
 
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
-
-
-# TicTacToe game with Java
+# TicTacToe game with Java(https://github.com/Vrachakatla15/TicTacToe)
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
 Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
 
-# [DiceGame--using Python and Neat](assets/)
+# [DiceGame--using Python](https://github.com/Vrachakatla15/Dicegamewithpython)
 
 <img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
