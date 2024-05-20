@@ -1,5 +1,5 @@
 
-### Data Engineer <img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
+## Data Engineer <img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 ### <img align="center" src="assets/Premium Vector | Collection colored thin icon of learning subject book graduated hat learning and education concept vector illustration.jpg" alt="vishnupriyaRachakatla" height="50" width="60" /> Education
 Master's in Management Information Systems at the University of Illinois Springfield 
