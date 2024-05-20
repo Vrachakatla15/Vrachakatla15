@@ -23,7 +23,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
 
-# [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython)
+# [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython) <img align="center" src="assets/Dicegame.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 <img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
