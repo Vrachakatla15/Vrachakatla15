@@ -26,7 +26,7 @@ Managing code repositories on GitHub and orchestrating CI/CD processes for autom
 
 In a fast-paced environment, my strong analytical prowess, interpersonal finesse, and problem-solving acumen have allowed me to excel, in managing multiple tasks with precision and creativity.
 
-## <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Chennai, India                                                                                                                 September 2019- August 2022
+## <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" /> Tech Mahindra, Hyderabad , India                                                                                                                 September 2019- August 2022
 Position: Data Engineer
 
 During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.
