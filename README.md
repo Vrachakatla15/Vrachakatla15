@@ -6,11 +6,10 @@ Master's in Management Information Systems at the University of Illinois Springf
 
 ### <img align="center" src="assets/AI and the Evolution of Technical Writing_ Looking Ahead to 2024.jpg" alt="Vishnupriyarachakatla" height="50" width="60" /> Skills
 ## Programming Languages <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
-Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
-
+Python, Java, JavaScript, C, C#, C++, Scala, R
 
 ### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
-TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
+TensorFlow, PyTorch, sci-kit-learn, PySpark
 
 ### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
