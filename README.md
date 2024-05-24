@@ -34,7 +34,7 @@ During my three years of experience, I have spearheaded the design, development,
 Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.
 
 My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
-### <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
+## <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
 # [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/TicTacToe.png" alt="vishnupriyarachakatla" height="50" width="60" />  
