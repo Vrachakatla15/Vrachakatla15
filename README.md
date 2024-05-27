@@ -8,7 +8,7 @@ Master's in Management Information Systems at the University of Illinois Springf
 ## Programming Languages :<img align="center" src="assets/programming languages.png" alt="vishnupriyarachakatla" height="50" width="60" /> 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 
-### Machine Learning :<img align="center" src="assets/1.png" alt="vishnupriyarachakatla" height="50" width="60" />
+### Machine Learning :<img align="center" src="assets/ml.png" alt="vishnupriyarachakatla" height="50" width="60" />
 TensorFlow, PyTorch, sci-kit-learn, PySpark
 
 ### DevOps, Monitoring, and Other Tools/Services :<img align="center" src="assets/1.png" alt="vishnupriyarachakatla" height="50" width="60" />
