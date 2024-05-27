@@ -5,7 +5,7 @@
 Master's in Management Information Systems at the University of Illinois Springfield 
 
 ### <img align="center" src="assets/skills.png" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
-## Programming Languages :
+## Programming Languages :<img align="center" src="assets/programming languages.png" alt="vishnupriyarachakatla" height="50" width="60" /> 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 
 ### Machine Learning :
