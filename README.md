@@ -4,11 +4,21 @@
 ### <img align="center" src="assets/Premium Vector | Collection colored thin icon of learning subject book graduated hat learning and education concept vector illustration.jpg" alt="vishnupriyaRachakatla" height="50" width="60" /> Education
 Master's in Management Information Systems at the University of Illinois Springfield 
 
-### <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="70" width="90" /> Skills
+## <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="80" /> Skills
 ## Programming Languages :<img align="center" src="assets/programming languages.png" alt="vishnupriyarachakatla" height="50" width="60" /> 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
+
+### Cloud Technologies:
+AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+
+
+### Big Data and Data Engineering Tools/Services:
+
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
+
 ### Machine Learning :<img align="center" src="assets/ml.png" alt="vishnupriyarachakatla" height="50" width="60" />
 TensorFlow, PyTorch, sci-kit-learn, PySpark
+
 ### DevOps, Monitoring, and Other Tools/Services :<img align="center" src="assets/1.png" alt="vishnupriyarachakatla" height="50" width="60" />
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.
 
@@ -32,7 +42,7 @@ During my three years of experience, I have spearheaded the design, development,
 Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.
 
 My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
-## <img align="center" src="assets/project.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> HIGHLIGHTED PROJECTS💡
+## <img align="center" src="assets/project.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Highlighted Projects💡
 
 
 # [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-) <img align="center" src="assets/2020 Olympic Games, Tokyo, Japan.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
