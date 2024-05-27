@@ -37,7 +37,7 @@ My experience extends to deploying and managing software applications on public 
 ## <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
-# [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-) 
+# [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-) <img align="center" src="assets/2020 Olympic Games, Tokyo, Japan.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
 
 The Tokyo-Olympic Azure Data Engineering Project leverages Azure's powerful tools to create a comprehensive data pipeline. Azure Data Factory orchestrates workflows, ensuring smooth data movement. Data Lake Gen 2 provides scalable storage for efficient data management. Synapse Analytics enables advanced analytics and insightful visualizations, while Databricks facilitates data processing and machine learning. Real-time data ingestion keeps insights current, scalable processing handles massive datasets, and Synapse transforms data into actionable insights. Interactive dashboards powered by Power BI visualize data effectively, making insights accessible and impactful.
 
@@ -61,7 +61,7 @@ Explore my Dice Game built with Python, featuring lifelike dice rolls, an intera
 # [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython) <img align="center" src="assets/Quizgame.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 Embark on a journey through my Dice Game crafted with Python. Experience lifelike dice rolls, an engaging interface, and a playful approach to mastering probability and math. Dive in now and share your thoughts!
-# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
+# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes) <img align="center" src="assets/Analytics Illustration.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
 
