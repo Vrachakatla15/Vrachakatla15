@@ -37,6 +37,17 @@ My experience extends to deploying and managing software applications on public 
 ## <img align="center" src="assets/projects.png" alt="vishnupriyarachakatla" height="50" width="60" /> Projects
 
 
+# [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-) 
+
+The Tokyo-Olympic Azure Data Engineering Project leverages Azure's powerful tools to create a comprehensive data pipeline. Azure Data Factory orchestrates workflows, ensuring smooth data movement. Data Lake Gen 2 provides scalable storage for efficient data management. Synapse Analytics enables advanced analytics and insightful visualizations, while Databricks facilitates data processing and machine learning. Real-time data ingestion keeps insights current, scalable processing handles massive datasets, and Synapse transforms data into actionable insights. Interactive dashboards powered by Power BI visualize data effectively, making insights accessible and impactful.
+
+
+
+<img align="center" src="assets/Tokyo-Olympics-architecture diagram.PNG" alt="vishnupriyarachakatla" height="200" width="400" />
+
+
+
+
 # [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/TicTacToe.png" alt="vishnupriyarachakatla" height="50" width="60" />  
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
