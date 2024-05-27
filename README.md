@@ -50,9 +50,12 @@ The Tokyo-Olympic Azure Data Engineering Project leverages Azure's powerful tool
 
 # [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/enmtest.jpg" alt="vishnupriyarachakatla" height="50" width="60" />  
 
-<img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
 Developed a Tic Tac Toe game using Java, with a sleek UI created in JavaFX and robust functionality ensured through JUnit tests, leveraging IntelliJ IDEA for development and GitHub for version control.
+
+<img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
+
+
 
 # [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython) <img align="center" src="assets/Dicegame.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
