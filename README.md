@@ -48,7 +48,7 @@ The Tokyo-Olympic Azure Data Engineering Project leverages Azure's powerful tool
 
 
 
-# [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/Tic Tac Toe .jpg" alt="vishnupriyarachakatla" height="80" width="60" />  
+# [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe)<img align="center" src="assets/Tic Tac Toe .jpg" alt="vishnupriyarachakatla" height="50" width="60" />  
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
