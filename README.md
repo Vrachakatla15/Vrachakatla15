@@ -4,7 +4,7 @@
 ### <img align="center" src="assets/Premium Vector | Collection colored thin icon of learning subject book graduated hat learning and education concept vector illustration.jpg" alt="vishnupriyaRachakatla" height="50" width="60" /> Education
 Master's in Management Information Systems at the University of Illinois Springfield 
 
-## <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="80" /> Skills
+## <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
 ## Programming Languages :<img align="center" src="assets/programming languages.png" alt="vishnupriyarachakatla" height="50" width="60" /> 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 
