@@ -8,7 +8,7 @@ Master's in Management Information Systems at the University of Illinois Springf
 ## Programming Languages :<img align="center" src="assets/programming languages.png" alt="vishnupriyarachakatla" height="50" width="60" /> 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 
-### Cloud Technologies:
+### Cloud Technologies:<img align="center" src="assets/Cloud computing outline vector icon on Flicko_io.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
 
