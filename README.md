@@ -53,6 +53,10 @@ My experience extends to deploying and managing software applications on public 
 
 <img align="center" src="assets/Tokyo-Olympics-architecture diagram.PNG" alt="vishnupriyarachakatla" height="200" width="400" />
 
+# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes) <img align="center" src="assets/Analytics Illustration.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
+
+
+"I've painted a colorful picture of data throughout my journey, blending analytical prowess 📊 with a keen eye for design 🎨. With skills in data analysis, visualization, and storytelling 📈, I've crafted compelling narratives from complex datasets. Armed with tools like Matplotlib, Tableau, Pandas, and SQL 🛠️, I transform numbers into stories that inspire action 🚀. Dive into the world of data with me and discover the art of meaningful insights!"
 
 
 
@@ -70,7 +74,3 @@ My experience extends to deploying and managing software applications on public 
 "Embark on an adventure with my Python-built Dice Game 🎲! Experience lifelike dice rolls 🎲, dive into an interactive interface 🖥️, and discover the joy of learning probability and math in a fun and engaging way 🌟
 # [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython) <img align="center" src="assets/Quizgame.png" alt="vishnupriyarachakatla" height="50" width="60" />
 Dive into the world of knowledge with my Python-powered Quiz Game 📚! Test your skills with interactive quizzes 🧠, explore diverse topics, and challenge yourself to learn something new every day 🌟. Experience the thrill of competition and expand your horizons with this engaging game 🚀
-# [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes) <img align="center" src="assets/Analytics Illustration.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
-
-
-"I've painted a colorful picture of data throughout my journey, blending analytical prowess 📊 with a keen eye for design 🎨. With skills in data analysis, visualization, and storytelling 📈, I've crafted compelling narratives from complex datasets. Armed with tools like Matplotlib, Tableau, Pandas, and SQL 🛠️, I transform numbers into stories that inspire action 🚀. Dive into the world of data with me and discover the art of meaningful insights!"
