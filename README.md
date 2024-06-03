@@ -12,7 +12,7 @@ Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
 
-### Big Data and Data Engineering Tools/Services:
+### Big Data and Data Engineering Tools/Services:<img align="center" src="assets/Big data outline vector icon on Flicko_io.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
 
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
