@@ -74,3 +74,9 @@ My experience extends to deploying and managing software applications on public 
 "Embark on an adventure with my Python-built Dice Game 🎲! Experience lifelike dice rolls 🎲, dive into an interactive interface 🖥️, and discover the joy of learning probability and math in a fun and engaging way 🌟
 # [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython) <img align="center" src="assets/Quizgame.png" alt="vishnupriyarachakatla" height="50" width="60" />
 Dive into the world of knowledge with my Python-powered Quiz Game 📚! Test your skills with interactive quizzes 🧠, explore diverse topics, and challenge yourself to learn something new every day 🌟. Experience the thrill of competition and expand your horizons with this engaging game 🚀
+
+
+# Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
+•	IBM Data Engineer Professional certificate
+
+•	Machine learning specialization by the University of Washington
