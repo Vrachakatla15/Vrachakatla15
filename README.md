@@ -26,6 +26,8 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ### <img align="center" src="assets/RVO.Health.png" alt="vishnupriyarachakatla" height="50" width="60" /> RVO Health, South Carolina                                                                                                                                                                                     September 2022- September 2023
 Position: Data Engineer
+
+
 In my dynamic year of experience, I've mastered the art of designing and maintaining intricate ETL pipelines using Spark (RDDs / Data Frames / Dataset API) with Scala/Python, ensuring precise data processing and analysis to meet diverse business needs. I possess a keen understanding of the big data landscape, adeptly managing large-scale data sets and transforming complex business requirements into scalable technical solutions.
 
 My expertise extends to implementing innovative data solutions on AWS, harnessing the power of services like Kinesis, S3, RedShift, DMS, and Athena for seamless data storage, processing, and analytics. I'm passionate about delving into data intricacies, conducting thorough research, and troubleshooting to ensure data quality and integrity, and collaborating closely with stakeholders to deliver exceptional results.
