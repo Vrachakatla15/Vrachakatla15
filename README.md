@@ -82,3 +82,6 @@ Dive into the world of knowledge with my Python-powered Quiz Game 📚! Test you
 •	IBM Data Engineer Professional certificate
 
 •	Machine learning specialization by the University of Washington
+
+•	Power BI Essential Training by LinkedIn 
+
