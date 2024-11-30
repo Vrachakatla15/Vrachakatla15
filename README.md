@@ -81,20 +81,20 @@ During my three years of experience, I have spearheaded the design, development,
 ### [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
 
 
-I've painted a colorful picture of data throughout my journey, blending analytical prowess with a keen eye for design . 
+- I've painted a colorful picture of data throughout my journey, blending analytical prowess with a keen eye for design . 
 
-With skills in data analysis, visualization, and storytelling, I've crafted compelling narratives from complex datasets. 
+- With skills in data analysis, visualization, and storytelling, I've crafted compelling narratives from complex datasets. 
 
-Armed with tools like Matplotlib, Tableau, Pandas, and SQL , I transform numbers into stories that inspire action . Dive into the world of data with me and discover the art of meaningful insights!
+- Armed with tools like Matplotlib, Tableau, Pandas, and SQL , I transform numbers into stories that inspire action . Dive into the world of data with me and discover the art of  meaningful insights!
 
 
 ### [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-)
 
-Dive into the Tokyo-Olympic Azure Data Engineering Project, where I harnessed Azure's mighty arsenal  to forge a robust data pipeline! Azure Data Factory orchestrated seamless workflows , while Data Lake Gen 2 provided the bedrock for scalable data storage .
+- Dive into the Tokyo-Olympic Azure Data Engineering Project, where I harnessed Azure's mighty arsenal  to forge a robust data pipeline! Azure Data Factory orchestrated seamless workflows , while Data Lake Gen 2 provided the bedrock for scalable data storage .
 
-Synapse Analytics wielded its power for advanced insights and captivating visualizations , and Databricks fueled our data processing and machine learning ambitions . Real-time data ingestion kept our insights fresh, scalable processing tamed massive datasets , and Synapse transformed raw data into actionable brilliance . 
+- Synapse Analytics wielded its power for advanced insights and captivating visualizations , and Databricks fueled our data processing and machine learning ambitions . Real-time data ingestion kept our insights fresh, scalable processing tamed massive datasets , and Synapse transformed raw data into actionable brilliance . 
 
-Interactive Power BI dashboards brought our insights to life, making data accessible and impactful . 
+- Interactive Power BI dashboards brought our insights to life, making data accessible and impactful . 
 
 
 
@@ -103,9 +103,9 @@ Interactive Power BI dashboards brought our insights to life, making data access
 
 ### [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe) 
 
-I crafted a Tic Tac Toe game using Java , crafting a sleek UI in JavaFX  and ensuring robust functionality through JUnit tests . 
+- I crafted a Tic Tac Toe game using Java , crafting a sleek UI in JavaFX  and ensuring robust functionality through JUnit tests . 
 
-I navigated the development process with IntelliJ IDEA  and maintained version control using GitHub .
+- I navigated the development process with IntelliJ IDEA  and maintained version control using GitHub .
 
 <img align="center" src="assets/tictactoeoutput .mov" alt="vishnupriyarachakatla" height="200" width="400" />
 
@@ -113,11 +113,10 @@ I navigated the development process with IntelliJ IDEA  and maintained version c
 
 ### [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython)
 
- Dice Game with Python! 
 
-Embark on an adventure with my Python-built Dice Game ! Experience lifelike dice rolls , dive into an interactive interface , and discover the joy of learning probability and math in a fun and engaging way 
+- Embark on an adventure with my Python-built Dice Game ! Experience lifelike dice rolls , dive into an interactive interface , and discover the joy of learning probability and math in a fun and engaging way 
 
 ### [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython)
-Dive into the world of knowledge with my Python-powered Quiz Game ! Test your skills with interactive quizzes , explore diverse topics, and challenge yourself to learn something new every day . 
+- Dive into the world of knowledge with my Python-powered Quiz Game ! Test your skills with interactive quizzes , explore diverse topics, and challenge yourself to learn something new every day . 
 
-Experience the thrill of competition and expand your horizons with this engaging game.
+- Experience the thrill of competition and expand your horizons with this engaging game.
