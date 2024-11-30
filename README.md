@@ -1,11 +1,11 @@
 
-## Data Engineer <img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
+## Data Engineer<img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 ### <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyaRachakatla" height="50" width="60" /> Education
 
 Master's in Management Information Systems at the University of Illinois Springfield 
 
-## <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
+### <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
 ### Programming Languages :
 
 Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
@@ -35,7 +35,7 @@ TensorFlow, PyTorch, sci-kit-learn, PySpark
 
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.
 
-## Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
+### Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 - IBM Data Engineer Professional certificate.
 
@@ -74,11 +74,12 @@ In my dynamic year of experience, I've mastered the art of designing and maintai
 ### Tech Mahindra | Hybrid                                                                                                                    
 #### Position: Data Engineer                                                                                                                            
 ###### (Sep 2019 - Aug 2022)
+
 During my three years of experience, I have spearheaded the design, development, and maintenance of robust Data Pipelines in Python, utilizing cutting-edge Big Data technologies to enhance data processing efficiency. My expertise extends to optimizing and managing Large Data Lakes and data warehouses, particularly specializing in Snowflake, where I ensure scalability and peak performance for intricate data operations. Proficient in both SQL and NoSQL databases, I have crafted resilient data schemas, fine-tuned queries for optimal performance, and upheld stringent data integrity and security measures.Additionally, I have seamlessly integrated and processed data using message brokers and AWS services like Kafka/Kinesis, AWS SQS, AWS SNS, Lambda, EMR, Glue, DynamoDB, Aurora, and RDS PostgreSQL. Leveraging CI/CD pipelines through tools such as Jenkins, GoCD, Azure DevOps, and AWS CloudFormation, I have automated software deployment and testing procedures, resulting in streamlined and error-free releases.My experience extends to deploying and managing software applications on public clouds like AWS and Azure, ensuring their availability, scalability, and reliability. Within Agile frameworks, I have embraced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies, fostering a culture of high-quality software delivery within strict timelines.
 
-## <img align="center" src="assets/project.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Highlighted Projects
+### <img align="center" src="assets/project.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Highlighted Projects
 
-### [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
+#### [Data Visualization projects]( https://public.tableau.com/app/profile/vishnupriya.rachakatla/vizzes)
 
 
 - I've painted a colorful picture of data throughout my journey, blending analytical prowess with a keen eye for design . 
@@ -88,7 +89,7 @@ During my three years of experience, I have spearheaded the design, development,
 - Armed with tools like Matplotlib, Tableau, Pandas, and SQL , I transform numbers into stories that inspire action . Dive into the world of data with me and discover the art of  meaningful insights!
 
 
-### [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-)
+#### [Tokyo-Olympic-Azure-Data-Engineering-Project](https://github.com/Vrachakatla15/Tokyo-olyampics-azure-project-)
 
 - Dive into the Tokyo-Olympic Azure Data Engineering Project, where I harnessed Azure's mighty arsenal  to forge a robust data pipeline! Azure Data Factory orchestrated seamless workflows , while Data Lake Gen 2 provided the bedrock for scalable data storage .
 
@@ -101,7 +102,7 @@ During my three years of experience, I have spearheaded the design, development,
 ### <img align="center" src="assets/Tokyo-Olympics-architecture diagram.PNG" alt="vishnupriyarachakatla" height="200" width="400" />
 
 
-### [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe) 
+#### [TicTacToe game with Java](https://github.com/Vrachakatla15/TicTacToe) 
 
 - I crafted a Tic Tac Toe game using Java , crafting a sleek UI in JavaFX  and ensuring robust functionality through JUnit tests . 
 
@@ -111,12 +112,12 @@ During my three years of experience, I have spearheaded the design, development,
 
 
 
-### [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython)
+#### [DiceGame-using Python](https://github.com/Vrachakatla15/Dicegamewithpython)
 
 
 - Embark on an adventure with my Python-built Dice Game ! Experience lifelike dice rolls , dive into an interactive interface , and discover the joy of learning probability and math in a fun and engaging way 
 
-### [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython)
+#### [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython)
 - Dive into the world of knowledge with my Python-powered Quiz Game ! Test your skills with interactive quizzes , explore diverse topics, and challenge yourself to learn something new every day . 
 
 - Experience the thrill of competition and expand your horizons with this engaging game.
