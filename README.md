@@ -37,17 +37,20 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
-1.IBM Data Engineer Professional certificate
+1.IBM Data Engineer Professional certificate.
 
-2.META Database Structures and Management with MySQL
+2.META Database Structures and Management with MySQL.
 
-3.META Version Control
+3.META Version Control.
 
-4.META Advanced MySQL
+4.META Advanced MySQL.
 
-5.Machine learning specialization by the University of Washington
+5.Machine learning specialization by the University of Washington.
 
-6.Power BI Essential Training by LinkedIn 
+6.Power BI Essential Training by LinkedIn.
+
+7.Databricks Generative AI Fundamentals.
+
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
 ### <img align="center" src="assets/maxim health.jpeg" alt="vishnupriyarachakatla" height="50" width="60" /> Maxim Health Care 
