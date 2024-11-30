@@ -17,18 +17,17 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 ### Data Visualisation
 Power BI, Tableau, Looker, Qlik
 
-### DevOps, Monitoring:
-Jenkins, JIRA, Confluence, GitHub, Git
-
 
 ### Big Data and Data Engineering Tools/Services:
 
-Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
+Spark, Kafka, Hadoop, Hive, Airflow,  Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, , Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery.
 
-### Machine Learning :<img align="center" src="assets/ml.png" alt="vishnupriyarachakatla" height="50" width="60" />
+### Machine Learning :
+
 TensorFlow, PyTorch, sci-kit-learn, PySpark
 
-### DevOps, Monitoring, and Other Tools/Services :<img align="center" src="assets/50 free vector icons of Artificial Intelligence designed by Freepik.jpg" alt="vishnupriyarachakatla" height="50" width="60" />
+### DevOps, Monitoring, and Other Tools/Services :
+
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
