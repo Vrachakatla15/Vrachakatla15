@@ -86,9 +86,14 @@ Dive into the world of knowledge with my Python-powered Quiz Game 📚! Test you
 
 # Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
 1.IBM Data Engineer Professional certificate
+
 2.META Database Structures and Management with MySQL
+
 3.META Version Control
+
 4.META Advanced MySQL
+
 5.Machine learning specialization by the University of Washington
+
 6.Power BI Essential Training by LinkedIn 
 
