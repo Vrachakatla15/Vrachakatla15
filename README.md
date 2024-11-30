@@ -35,6 +35,19 @@ TensorFlow, PyTorch, sci-kit-learn, PySpark
 
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.
 
+## Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
+
+1.IBM Data Engineer Professional certificate
+
+2.META Database Structures and Management with MySQL
+
+3.META Version Control
+
+4.META Advanced MySQL
+
+5.Machine learning specialization by the University of Washington
+
+6.Power BI Essential Training by LinkedIn 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
 ### <img align="center" src="assets/maxim health.jpeg" alt="vishnupriyarachakatla" height="50" width="60" /> Maxim Health Care 
@@ -104,20 +117,4 @@ Embark on an adventure with my Python-built Dice Game ! Experience lifelike dice
 ### [QuizGame-using Python](https://github.com/Vrachakatla15/QuizGameWithPython)
 Dive into the world of knowledge with my Python-powered Quiz Game ! Test your skills with interactive quizzes , explore diverse topics, and challenge yourself to learn something new every day . 
 
-Experience the thrill of competition and expand your horizons with this engaging game 
-
-
-## Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
-
-1.IBM Data Engineer Professional certificate
-
-2.META Database Structures and Management with MySQL
-
-3.META Version Control
-
-4.META Advanced MySQL
-
-5.Machine learning specialization by the University of Washington
-
-6.Power BI Essential Training by LinkedIn 
-
+Experience the thrill of competition and expand your horizons with this engaging game.
