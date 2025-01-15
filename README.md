@@ -1,5 +1,5 @@
 
-## Data Engineer<img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
+## Data Analyst<img align="center" src="assets/Data engineer .png" alt="vishnupriyarachakatla" height="50" width="60" />
 
 ### <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyaRachakatla" height="50" width="60" /> Education
 
