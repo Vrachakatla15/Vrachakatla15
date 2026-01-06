@@ -37,6 +37,10 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ### Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
+- Google data analyst certification
+
+- AI Certification with coursea
+  
 - IBM Data Engineer Professional certificate.
 
 - META Database Structures and Management with MySQL.
