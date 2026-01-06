@@ -53,8 +53,8 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
-### <img align="center" src="assets/pngimg.com - google_PNG102344.png"vishnupriyarachakatla" height="50" width="60" /> GOOGLE
-### Astreya | Client: Google | Hybrid/Remote  
+### <img align="center" src="assets/pngimg.com - google_PNG102344.png="vishnupriyarachakatla" height="50" width="60" /> GOOGLE
+### Astreya | Client: Google | Remote  
 #### Position: Data Analyst II  
 ###### (March 2025 - Present)
 
