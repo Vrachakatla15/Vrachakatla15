@@ -6,34 +6,30 @@
 Master's in Management Information Systems at the University of Illinois Springfield 
 
 ### <img align="center" src="assets/skills.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Skills
-### Programming Languages :
 
-Python, Java, JavaScript, C, C#, C++, Scala,R, spark,Hadoop
+### Programming Languages
+Python, SQL, R, Java, Scala  
 
-### Cloud Technologies:
+### Cloud Technologies
+Google Cloud Platform (GCP), AWS, Azure, Snowflake  
 
-AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+### Data Analysis & Analytics
+Exploratory Data Analysis (EDA), KPI Development, Metrics Definition, Trend Analysis, Root-Cause Analysis, Data Validation, Data Quality Assurance  
 
-### Machine Learning:
+### Data Visualization
+Google PLX, Tableau, Power BI, Looker, Qlik  
 
-TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
+### Data Platforms & Databases
+Google BigQuery, PostgreSQL, MongoDB, Amazon Redshift  
 
-### Data Visualisation:
+### Big Data & Analytics Tools
+Spark, Databricks, Hive, Airflow  
 
-Power BI, Tableau, Looker, Qlik
+### Machine Learning (Foundational)
+Statistical Analysis, scikit-learn, PySpark  
 
-
-### Big Data and Data Engineering Tools/Services:
-
-Spark, Kafka, Hadoop, Hive, Airflow,  Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, , Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery.
-
-### Machine Learning :
-
-TensorFlow, PyTorch, sci-kit-learn, PySpark
-
-### DevOps, Monitoring, and Other Tools/Services :
-
-Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.
+### DevOps, Monitoring, and Other Tools/Services
+Git, GitHub, JIRA, Confluence, RESTful APIs, Linux, Bash, Pub/Sub, Jupyter Notebooks, PyCharm, Google Sheets, Excel  
 
 ### Certifications: <img align="center" src="assets/tool-box.png" alt="vishnupriyarachakatla" height="50" width="60" />
 
