@@ -53,22 +53,22 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/Work Experience  Icons.jpg" alt="vishnupriyarachakatla" height="50" width="60" /> Work Experience
 
+### <img align="center" src="assets/pngimg.com - google_PNG102344.png"vishnupriyarachakatla" height="50" width="60" /> GOOGLE
+### Astreya | Client: Google | Hybrid/Remote  
+#### Position: Data Analyst II  
+###### (March 2025 - Present)
+
+As a Data Analyst II at Astreya supporting Google, I played a key role in delivering high-impact analytics and reporting solutions for internal operational and performance monitoring. I leveraged Google PLX to design, build, and maintain scalable dashboards that provided stakeholders with timely, reliable visibility into critical business metrics and trends. I partnered closely with cross-functional teams to understand business needs, translate complex requirements into clearly defined KPIs, and ensure consistent metric definitions across reporting workflows.
+I took ownership of data quality and accuracy, performing rigorous validation, reconciliation, and quality assurance checks to maintain trust in dashboards and reports. Using SQL and Google Sheets, I analyzed large, complex datasets to uncover trends, detect anomalies, and support root-cause analysis that informed data-driven decisions. I continuously improved dashboard usability and reporting efficiency by refining layouts, optimizing metrics, and enhancing documentation based on stakeholder feedback. Through clear visualizations, structured reporting, and concise insights tailored to both technical and non-technical audiences, I enabled faster decision-making and more effective operational planning across teams.
 ### <img align="center" src="assets/maxim health.jpeg" alt="vishnupriyarachakatla" height="50" width="60" /> Maxim Health Care 
                                                                                               
 ###  Maxim Health Care| Hybrid                                                                                                                     
 #### Position: Data Analyst 
 
-###### (Aug 2024 - Present)
+###### (March 2024 - Jan)
 
 I have extensive experience in collecting and preprocessing healthcare data from diverse sources, ensuring accuracy, completeness, and consistency for meaningful analysis. I develop and maintain robust data pipelines to efficiently integrate, process, and transform data from various systems. Leveraging tools like Power BI and Tableau, I design and create interactive dashboards and visualizations to support data-driven decision-making. With expertise in writing and optimizing complex SQL queries, I ensure efficient and reliable data retrieval from relational databases. I conduct statistical analyses to evaluate healthcare program outcomes, identify trends, and recommend actionable improvements. My work adheres strictly to data governance policies and regulatory compliance standards, including HIPAA, to maintain the highest level of data security. I automate data workflows using Python or VBA to enhance operational efficiency while reducing manual effort. Collaborating with cross-functional teams, I translate business needs into technical requirements to deliver tailored analytics solutions. Additionally, I monitor and enhance data systems and pipelines, troubleshoot issues, and implement improvements to optimize functionality. Through root-cause analysis and validation processes, I address data discrepancies, maintaining integrity and accuracy. My work includes developing predictive models and analytics frameworks to forecast healthcare trends, optimizing resource allocation, and improving services.
 
-### Astreya | Client: Google | Hybrid/Remote  
-#### Position: Data Analyst II  
-###### (Aug 2024 - Present)
-
-As a Data Analyst II at Astreya supporting Google, I played a key role in delivering high-impact analytics and reporting solutions for internal operational and performance monitoring. I leveraged Google PLX to design, build, and maintain scalable dashboards that provided stakeholders with timely, reliable visibility into critical business metrics and trends. I partnered closely with cross-functional teams to understand business needs, translate complex requirements into clearly defined KPIs, and ensure consistent metric definitions across reporting workflows.
-
-I took ownership of data quality and accuracy, performing rigorous validation, reconciliation, and quality assurance checks to maintain trust in dashboards and reports. Using SQL and Google Sheets, I analyzed large, complex datasets to uncover trends, detect anomalies, and support root-cause analysis that informed data-driven decisions. I continuously improved dashboard usability and reporting efficiency by refining layouts, optimizing metrics, and enhancing documentation based on stakeholder feedback. Through clear visualizations, structured reporting, and concise insights tailored to both technical and non-technical audiences, I enabled faster decision-making and more effective operational planning across teams.
 
 ### <img align="center" src="assets/TechMahindra.png" alt="vishnupriyarachakatla" height="50" width="60" />                                      
 ### Tech Mahindra | Hybrid                                                                                                                    
